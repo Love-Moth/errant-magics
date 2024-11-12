@@ -1,0 +1,1 @@
+An attempt at adapting the world building of John Bierce's Mage Errant series to minecraft. Specifically the Affinity system of magic though utility effects, and enchanting. Hopefully with spells later.
